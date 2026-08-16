@@ -1,0 +1,13 @@
+Step by step data cleaning process
+Data Collection & inspection
+  type of data in each columns ( numerical , categorical , datetime,text)
+  missing values /duplicate values
+  datatypes
+  inconsistencies
+
+Techniques:-
+  summary statistics
+  distribution plot
+  info ( datatype / non null count)
+  frequency --> categorical data
+  visual inspect
